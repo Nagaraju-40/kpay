@@ -1,0 +1,15 @@
+{
+  "cli": {
+    "version": ">= 3.0.0"
+  },
+  "build": {
+    "preview": {
+      "developmentClient": true,
+      "distribution": "internal",
+      "env": {
+        "API_URL": "pk_test_ZXhwZXJ0LWNyaWNrZXQtODcuY2xlcmsuYWNjb3VudHMuZGV2JA",
+        "SECRET_KEY": "my-secret"
+      }
+    }
+  }
+}
